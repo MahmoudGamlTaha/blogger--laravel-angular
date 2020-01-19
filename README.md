@@ -1,4 +1,4 @@
-# blogger-angular-
+# blogger-angular
 prerequisite 
 php 7.2 or later 
 angular 6 or later 
